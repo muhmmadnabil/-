@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">دليل المسلم</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_1">أذكار الصباح</string>
+    <string name="btn_2">أذكار المساء</string>
+    <string name="btn_3">أذكار الاستيقاظ</string>
+    <string name="btn_4">أذكار النوم</string>
+    <string name="btn_5">أذكار الوضوء</string>
+    <string name="btn_6">أذكار المنزل</string>
+    <string name="btn_7">أذكار الطعام</string>
+    <string name="btn_8">أذكار الاذان</string>
+    <string name="btn_9">أذكار المسجد</string>
+    <string name="btn_10">أذكار بعد الصلاة</string>
+    <string name="data_key">biggest_counter</string>
+    <string name="image">image</string>
+    <string name="btn_back">btn_back</string>
+    <string name="tool_bar_title">دليل المسلم</string>
+    <string name="btn_zoom_out">btn_zoom_out</string>
+    <string name="btn_zoom_in">btn_zoom_in</string>
+    <string name="btn_share">أختر نوع المشاركة</string>
+    <string name="tv_share">شارك التطبيق مع من تعرف حتى يصبح لك صدقة جارية خاصة بك! بحيث يحمله الاف الناس من بعدك!</string>
+    <string name="btn_counter">0</string>
+    <string name="tv_tasbea">عدد التسبيحات حتى الان</string>
+    <string name="tv_counter">0</string>
+    <string name="btn_restart">btn_restart</string>
+    <string name="toolbar_title">أذكار المسلم</string>
+</resources>

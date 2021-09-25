@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/azkar"
+        android:title="أذكار المسلم"
+        android:icon="@drawable/ic_nav1" />
+    <item
+        android:id="@+id/adea"
+        android:title="أدعية"
+        android:icon="@drawable/ic_nav2"/>
+    <item
+        android:id="@+id/tasbea"
+        android:title="السبحة"
+        android:icon="@drawable/ic_nav3"/>
+    <item
+        android:id="@+id/share"
+        android:title="مشاركة"
+        android:icon="@drawable/ic_nav4"/>
+</menu>
